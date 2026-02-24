@@ -1,0 +1,17 @@
+
+#System 1 Group
+##Company Context
+We are System 1 Group. Website: https://system1group.com/
+We are a company that provides software to test customer adverts and provide them with meaningful and actionable insights and predictions on how the ad will perform once released.
+We deliver software using the agile SCRUM methodology, working in two week sprints.
+We are using Microsoft DevOps for managing the building of our software.
+We develop our software using the Microsoft technology stack. 
+
+Orlando Wood  https://system1group.com/team/orlando-wood
+
+##Product Context
+###Test Your Ad (TYA)
+You can learn more about the Test Your Ad (TYA) product here:
+1. https://system1group.com/test-your-ad
+2. https://testyourad.system1group.com/
+3. https://system1group.com/very-secure-maximum-star-rating-on-system1s-test-your-ad-digital
